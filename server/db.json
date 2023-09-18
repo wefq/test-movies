@@ -1,0 +1,2569 @@
+{
+  "data": [
+    {
+      "id": 260988,
+      "nameRu": "Эйс Вентура младший",
+      "nameOriginal": "Ace Ventura: Pet Detective Jr.",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "rating": 2.0,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/260988.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/260988.jpg"
+    },
+    {
+      "id": 851583,
+      "nameRu": "Красная Шапочка",
+      "nameOriginal": "Little Red Riding Hood",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 2.0,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/851583.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/851583.jpg"
+    },
+    {
+      "id": 661079,
+      "nameRu": "Чужие против аватаров",
+      "nameOriginal": "Aliens vs. Avatars",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 1.9,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/661079.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/661079.jpg"
+    },
+    {
+      "id": 105814,
+      "nameRu": "Проклятье Вуду: Гиддех",
+      "nameOriginal": "VooDoo Curse: The Giddeh",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 2.3,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/105814.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/105814.jpg"
+    },
+    {
+      "id": 793979,
+      "nameRu": "Чудовища Берингова моря",
+      "nameOriginal": "Bering Sea Beast",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 2.9,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/793979.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/793979.jpg"
+    },
+    {
+      "id": 657464,
+      "nameRu": "Паучий удар",
+      "nameOriginal": "Arachnoquake",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 3.0,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/657464.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/657464.jpg"
+    },
+    {
+      "id": 468287,
+      "nameRu": "Легенда острова Двид",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "rating": 1.4,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/468287.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/468287.jpg"
+    },
+    {
+      "id": 174702,
+      "nameRu": "Клеймо дьявола",
+      "nameOriginal": "Shapeshifter",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 1.1,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/174702.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/174702.jpg"
+    },
+    {
+      "id": 12423,
+      "nameRu": "Ангелы здесь не живут",
+      "nameOriginal": "Angels Don't Sleep Here",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        }
+      ],
+      "rating": 3.0,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/12423.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/12423.jpg"
+    },
+    {
+      "id": 5054154,
+      "nameRu": "Шкатулка проклятия. Шепот ведьмы",
+      "nameOriginal": "Trinket Box",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 3.1,
+      "year": 2005,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5054154.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5054154.jpg"
+    },
+    {
+      "id": 468884,
+      "nameRu": "Zадов in Rеалити",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 1.6,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/468884.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/468884.jpg"
+    },
+    {
+      "id": 95217,
+      "nameRu": "Улыбка Мелометы",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [],
+      "rating": 1.5,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/95217.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/95217.jpg"
+    },
+    {
+      "id": 397369,
+      "nameRu": "Не родись красивой",
+      "nameOriginal": "El amor no es como lo pintan",
+      "countries": [
+        {
+          "country": "Мексика"
+        }
+      ],
+      "genres": [],
+      "rating": 2.7,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/397369.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/397369.jpg"
+    },
+    {
+      "id": 436269,
+      "nameRu": "Обручальное кольцо",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "rating": 1.4,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/436269.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/436269.jpg"
+    },
+    {
+      "id": 468098,
+      "nameRu": "Доктор Тырса",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "детектив"
+        }
+      ],
+      "rating": 2.7,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/468098.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/468098.jpg"
+    },
+    {
+      "id": 478843,
+      "nameRu": "Ефросинья",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "rating": 2.4,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/478843.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/478843.jpg"
+    },
+    {
+      "id": 427090,
+      "nameRu": "Своя команда",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "спорт"
+        }
+      ],
+      "rating": 1.6,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/427090.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/427090.jpg"
+    },
+    {
+      "id": 510062,
+      "nameRu": "Как я встретил вашу маму",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 1.5,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/510062.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/510062.jpg"
+    },
+    {
+      "id": 1435394,
+      "nameRu": "Ну, погоди! Каникулы",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        }
+      ],
+      "rating": 1.3,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1435394.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1435394.jpg"
+    },
+    {
+      "id": 733321,
+      "nameRu": "Страна в shope",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 1.7,
+      "year": 2005,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/733321.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/733321.jpg"
+    },
+
+    {
+      "id": 661057,
+      "nameRu": "Улицы разбитых фонарей 12",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "rating": 1.1,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/661057.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/661057.jpg"
+    },
+    {
+      "id": 253005,
+      "nameRu": "Ветеринары в заповеднике",
+      "nameOriginal": "Vets in Practice",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "rating": 2.1,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/253005.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/253005.jpg"
+    },
+    {
+      "id": 255341,
+      "nameRu": "Лабиринт",
+      "nameOriginal": "Laberinto",
+      "countries": [
+        {
+          "country": "Аргентина"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "криминал"
+        }
+      ],
+      "rating": 1.2,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/255341.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/255341.jpg"
+    },
+    {
+      "id": 256113,
+      "nameRu": "Принц улиц",
+      "nameOriginal": "Prince Street",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "rating": 2.2,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/256113.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/256113.jpg"
+    },
+    {
+      "id": 258073,
+      "nameRu": "Покидая Лос-Анджелес",
+      "nameOriginal": "Leaving L.A.",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "rating": 1.3,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/258073.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/258073.jpg"
+    },
+    {
+      "id": 258137,
+      "nameRu": null,
+      "nameOriginal": "Loved by You",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 2.3,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/258137.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/258137.jpg"
+    },
+    {
+      "id": 258330,
+      "nameRu": null,
+      "nameOriginal": "I misteri di Cascina Vianello",
+      "countries": [
+        {
+          "country": "Италия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 1.5,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/258330.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/258330.jpg"
+    },
+    {
+      "id": 258436,
+      "nameRu": "Электронная команда Мегарейнджеры",
+      "nameOriginal": "Denji sentai Megarenjâ",
+      "countries": [
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 2.5,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/258436.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/258436.jpg"
+    },
+    {
+      "id": 271757,
+      "nameRu": "Клео: Зов сердца",
+      "nameOriginal": "Kleo the Misfit Unicorn",
+      "countries": [
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мультфильм"
+        }
+      ],
+      "rating": 1.7,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/271757.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/271757.jpg"
+    },
+    {
+      "id": 272868,
+      "nameRu": "Ау",
+      "nameOriginal": "Au",
+      "countries": [
+        {
+          "country": "Нидерланды"
+        }
+      ],
+      "genres": [],
+      "rating": 2.7,
+      "year": 1997,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/272868.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/272868.jpg"
+    },
+
+    {
+      "id": 369097,
+      "nameRu": "Новейшие приключения Буратино",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 2.4,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/369097.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/369097.jpg"
+    },
+    {
+      "id": 41261,
+      "nameRu": "Корабль двойников",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "детектив"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 2.1,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/41261.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/41261.jpg"
+    },
+    {
+      "id": 5239,
+      "nameRu": "Первый семестр",
+      "nameOriginal": "Das erste Semester",
+      "countries": [
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 1.6,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5239.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5239.jpg"
+    },
+    {
+      "id": 1560,
+      "nameRu": "Три девушки на бензоколонке",
+      "nameOriginal": "Die drei Mädels von der Tankstelle",
+      "countries": [
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 1.4,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1560.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1560.jpg"
+    },
+    {
+      "id": 1669,
+      "nameRu": null,
+      "nameOriginal": "A Guy Walks Into a Bar",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "rating": 1.5,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1669.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1669.jpg"
+    },
+    {
+      "id": 1763,
+      "nameRu": "Внутренняя сущность",
+      "nameOriginal": "Visceral Matter",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        }
+      ],
+      "rating": 1.3,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1763.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1763.jpg"
+    },
+    {
+      "id": 1770,
+      "nameRu": null,
+      "nameOriginal": "Home Before Dark",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "rating": 2.1,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1770.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1770.jpg"
+    },
+    {
+      "id": 2020,
+      "nameRu": "Река утопленников",
+      "nameOriginal": "River Made to Drown In",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "rating": 2.7,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2020.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2020.jpg"
+    },
+    {
+      "id": 2861,
+      "nameRu": "Отель страсти",
+      "nameOriginal": "Motel Blue",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        }
+      ],
+      "rating": 1.1,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2861.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2861.jpg"
+    },
+    {
+      "id": 2358,
+      "nameRu": "Битва умов",
+      "nameOriginal": "Menno's Mind",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        }
+      ],
+      "rating": 1.2,
+      "year": 1997,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2358.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2358.jpg"
+    },
+
+    {
+      "id": 681790,
+      "nameRu": "Спокойной ночи, малыши",
+      "nameOriginal": "Saturday Morning Massacre",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 3.0,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/681790.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/681790.jpg"
+    },
+    {
+      "id": 647291,
+      "nameRu": "Zолушка",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 2.0,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/647291.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/647291.jpg"
+    },
+    {
+      "id": 652698,
+      "nameRu": "Бугимен",
+      "nameOriginal": "Boogeyman",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 3.5,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/652698.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/652698.jpg"
+    },
+    {
+      "id": 682087,
+      "nameRu": "Призрачный рейс",
+      "nameOriginal": "407 Dark Flight",
+      "countries": [
+        {
+          "country": "Таиланд"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 4.1,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/682087.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/682087.jpg"
+    },
+    {
+      "id": 687297,
+      "nameRu": "Помощники",
+      "nameOriginal": "The Helpers",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 4.3,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/687297.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/687297.jpg"
+    },
+    {
+      "id": 592161,
+      "nameRu": "Предчувствие бури",
+      "nameOriginal": "Alien Tornado",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "rating": 4.5,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/592161.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/592161.jpg"
+    },
+    {
+      "id": 576608,
+      "nameRu": "Количество клеток",
+      "nameOriginal": "Cell Count",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 4.4,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/576608.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/576608.jpg"
+    },
+    {
+      "id": 629978,
+      "nameRu": "Это в крови",
+      "nameOriginal": "It's in the Blood",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 4.6,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/629978.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/629978.jpg"
+    },
+    {
+      "id": 577550,
+      "nameRu": "Черный лес",
+      "nameOriginal": "Black Forest",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "rating": 4.2,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/577550.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/577550.jpg"
+    },
+    {
+      "id": 669351,
+      "nameRu": "Билет на Vegas",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 3.2,
+      "year": 2012,
+      "type": "FILM",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших фильмов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/669351.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/669351.jpg"
+    },
+    {
+      "id": 717058,
+      "nameRu": "Возвращение Мухтара 8",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "детектив"
+        }
+      ],
+      "rating": 4.0,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/717058.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/717058.jpg"
+    },
+    {
+      "id": 661057,
+      "nameRu": "Улицы разбитых фонарей 12",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "rating": 3.9,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/661057.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/661057.jpg"
+    },
+    {
+      "id": 707959,
+      "nameRu": "Бар «Дак»",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Украина"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 3.8,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/707959.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/707959.jpg"
+    },
+    {
+      "id": 711719,
+      "nameRu": "Неравный брак",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "rating": 3.8,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/711719.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/711719.jpg"
+    },
+    {
+      "id": 612686,
+      "nameRu": "Человек-приманка",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 3.8,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/612686.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/612686.jpg"
+    },
+    {
+      "id": 628889,
+      "nameRu": "УГРО 4",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        }
+      ],
+      "rating": 3.5,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/628889.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/628889.jpg"
+    },
+    {
+      "id": 774581,
+      "nameRu": "Осторожно: дети!",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 3.5,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/774581.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/774581.jpg"
+    },
+    {
+      "id": 717163,
+      "nameRu": "Марвин, Марвин",
+      "nameOriginal": "Marvin Marvin",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "rating": 3.4,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/717163.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/717163.jpg"
+    },
+    {
+      "id": 628886,
+      "nameRu": "Катина любовь",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "rating": 3.4,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/628886.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/628886.jpg"
+    },
+    {
+      "id": 754431,
+      "nameRu": "Радио SEX",
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        }
+      ],
+      "rating": 3.0,
+      "year": 2012,
+      "type": "TV_SERIES",
+      "staff": {
+        "directors": ["Марти Макфлай", "Брюс Уэин"],
+        "screenwriters": ["Крис Медсен"],
+        "actors": ["Джонни Кейдж", "Эллен Рипли"]
+      },
+      "description": "Один из самых худших сериалов, которых вы видели...",
+      "pictures": [
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/b15227e2-321f-447b-a22f-4c6865dc42b0/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/3563943f-8e44-49c9-9824-5e35ecb1d027/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/5883b8ff-b9e6-4eb0-b2ec-49e8c8de29d8/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/971f7497-d139-4696-8529-df59a86baa6b/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/0682abc5-d775-4f93-bc62-fe802b21043d/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/e883f467-5070-4168-819b-8b2895bb3ccc/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2caa5361-aa26-484a-b33b-5739c25772d3/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/06130563-7de7-471a-be2d-3d16caa40949/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/50c19066-0d61-4850-8d73-7b291dcec1b5/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/86fc23d7-c372-4986-8f3b-7ccf806cfa65/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/365832fd-f8c8-4b7e-bcb4-6201684592bd/orig",
+        "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/f3841535-c320-49c3-ab51-3ff368e626bb/orig"
+      ],
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/754431.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/754431.jpg"
+    }
+  ]
+}
