@@ -22,9 +22,7 @@ export const fetchServerData = async (request: Request) => {
     method: 'GET',
   })
 
-  if (!res.ok) {
-    throw new Error('Failed to fetch data')
-  }
+  if (!res.ok) throw Error('could not fetch newData for that resource')
 
   return res.json()
 }

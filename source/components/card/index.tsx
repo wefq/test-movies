@@ -3,7 +3,11 @@ import type { FC } from 'react'
 
 import Link from 'next/link'
 
-interface Info extends Omit<Movie, 'countries' | 'posterUrl' | 'genres'> {
+interface Info
+  extends Omit<
+    Movie,
+    'countries' | 'posterUrl' | 'genres' | 'pictures' | 'staff' | 'type'
+  > {
   index: number
 }
 
@@ -15,7 +19,6 @@ export const Card: FC<Info> = ({
   nameOriginal,
   year,
   rating,
-  type,
   description,
 }) => {
   return (
@@ -29,23 +32,15 @@ export const Card: FC<Info> = ({
           alt={`${nameRu}-preview`}
         />
         <div className='flex flex-col justify-between p-4 leading-normal'>
-          <h3 className='mb-2 text-2xl font-bold tracking-tight'>
-            {nameRu}
-          </h3>
+          <h3 className='mb-2 text-2xl font-bold tracking-tight'>{nameRu}</h3>
           {nameOriginal && (
             <h4 className='mb-2 text-xl font-bold tracking-tight'>
               ({nameOriginal})
             </h4>
           )}
-          <p className='mb-3 font-normal'>
-            Год: {year}
-          </p>
-          <p className='mb-3 font-normal'>
-            Рейтинг: {rating}
-          </p>
-          <p className='mb-3 font-normal'>
-            {description}
-          </p>
+          <p className='mb-3 font-normal'>Год: {year}</p>
+          <p className='mb-3 font-normal'>Рейтинг: {rating}</p>
+          <p className='mb-3 font-normal'>{description}</p>
         </div>
       </div>
     </Link>
